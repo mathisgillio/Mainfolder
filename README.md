@@ -2,5 +2,5 @@
  
 - Mathis Gillio 
 - First folder created
-- instagram @mathisgillio
+- instagram: @mathisgillio
 
